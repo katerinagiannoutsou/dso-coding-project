@@ -8,7 +8,6 @@ https://github.com/paulgrigas/SmartPredictThenOptimize
 
 # Overview
 
-sanity_check : basic sanity check to familiarize with code from original paper
 
 Following structure of code from the authors' repository:
 
@@ -19,3 +18,6 @@ oracles: contains the shortest path oracle
 experiments: running the experiment and populating results' table
 
 plots: plots contained in project
+
+sanity_check : basic sanity check to familiarize with code from original paper
+
